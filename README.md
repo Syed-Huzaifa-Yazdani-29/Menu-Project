@@ -44,3 +44,5 @@ This project is inspired by common UI filter patterns used in modern web develop
 
 📃 License
 This project is open-source and available under the MIT License.
+
+Feel free to use the code.
